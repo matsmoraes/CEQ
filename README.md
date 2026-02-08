@@ -5,10 +5,10 @@ Este projeto implementa um sistema de monitoramento de processos industriais uti
 O trabalho aborda desde a limpeza de dados e estimativa de parâmetros (Fase 1) até a simulação de monitoramento em tempo real e análise do poder de detecção de desvios (Fase 2).
 
 ## Objetivos
-* [cite_start]Estabelecer limites de controle estatístico para um processo industrial.
-* [cite_start]Identificar e tratar *outliers* que possam comprometer a calibração do sistema.
-* [cite_start]Avaliar a eficiência do gráfico de controle ($\bar{X}$) através do Número Médio de Amostras ($NMA$).
-* [cite_start]Simular dados da Fase 2 para validar a capacidade do gráfico em detectar mudanças no processo em tempo real.
+* Estabelecer limites de controle estatístico para um processo industrial.
+* Identificar e tratar *outliers* que possam comprometer a calibração do sistema.
+* Avaliar a eficiência do gráfico de controle ($\bar{X}$) através do Número Médio de Amostras ($NMA$).
+* Simular dados da Fase 2 para validar a capacidade do gráfico em detectar mudanças no processo em tempo real.
 
 ## Tecnologias e Bibliotecas
 * **Linguagem:** R.
