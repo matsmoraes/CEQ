@@ -19,8 +19,8 @@ O trabalho aborda desde a limpeza de dados e estimativa de parâmetros (Fase 1) 
 
 ### Fase 1: Estabilização e Calibração
 * **Análise Inicial:** Foram utilizadas 20 amostras iniciais de 5 peças cada ($n=5$).
-* **Tratamento de Dados:** Através de um Boxplot e do Gráfico de Amplitude ($R$), identificou-se a **amostra 2** como um ponto fora de controle com amplitude de $21{,}6$.
-* **Estimativas Finais:** Após a exclusão do *outlier*, as novas estimativas para o processo em controle foram $\hat{\mu}_{0}$ = 79,49 e $\hat{\sigma}_{0}$ = 3,58.
+* **Tratamento de Dados:** Através de um Boxplot e do Gráfico de Amplitude ($R$), identificou-se a **amostra 2** como um ponto fora de controle com amplitude de 21,6.
+* **Estimativas Finais:** Após a exclusão do *outlier*, as novas estimativas para o processo em controle foram $\mu_{0}$ = 79,49 e $\sigma_{0}$ = 3,58.
 
 
 ### Fase 2: Monitoramento e Performance
